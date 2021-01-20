@@ -1,12 +1,33 @@
-# Getting Started with Create React App
+# React Login App using Redux-thunk
+
+## Live Demo
+
+Frontend - https://react-login-app-frontend.vercel.app/
+
+Backend - https://react-login-app-backend.herokuapp.com/
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Clone Project using 
 
-In the project directory, you can run:
+### `git clone https://github.com/saif-raw/react-login-app.git`
 
-### `npm start`
+After that follow the steps:
+
+/react-login-ap
+
+### `npm i`
+
+
+/backend
+
+### `npm i`
+
+
+## To run project
+
+### `npm run start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
