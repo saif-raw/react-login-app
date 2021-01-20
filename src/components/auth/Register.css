@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+
+.outerdiv{
+    padding-left: 11.250px;
+}
+
+.reg-btn{
+    font-family: 'Montserrat', sans-serif;
+    width: "150px";
+    border-radius: "3px";
+    letter-spacing: "1.5px";
+    margin-top: "1rem";
+}
+

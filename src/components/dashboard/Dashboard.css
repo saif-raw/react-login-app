@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+.outer-div {
+    height: 75vh;
+}
+
+span {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logout-btn {
+    padding-top: 50%;
+    width: 150px;
+    border-radius: 3px;
+    letter-spacing: 1.5px;
+    margin-top: 1rem;
+}
